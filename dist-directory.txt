@@ -1,0 +1,5 @@
+asset favicon.ico 15 KiB [emitted]
+asset main.js 3.55 KiB [emitted] (name: main)
+asset index.html 1.21 KiB [emitted]
+./src/script.js 928 bytes [built] [code generated]
+webpack 5.105.4 compiled successfully in 168 ms
